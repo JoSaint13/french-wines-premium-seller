@@ -1,2 +1,3 @@
-# french-wines-premium-seller
-Auto-generated project: french-wines-premium-seller
+# README
+
+[Temporarily disabled for testing - only 1 LLM call]
